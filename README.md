@@ -5,7 +5,7 @@ Repositório para praticar os básicos do Git e GitHub
 
 | Nome  | Descrição | Usuário Git |
 | ------------- | ------------- | ------------- |
-| Aline  | Content Cell  | Content Cell  | 
-| Carolina  | Content Cell  | Content Cell  |
+| Aline  |   | Estudante de Analise e Desenvolvimento de Sistemas  | https://github.com/Lalinealin
+| Carolina  | Estudante de Analise e Desenvolvimento de Sistemas  | https://github.com/carolinasouza-dev |
 | Eduardo  | Estudante de Análise e Desenvolvimento de Sistemas  | https://github.com/edukatiau/  |
-| Igor  | Content Cell  | Content Cell  |
+| Igor  | Estudante de Ciência da Computação |  https://github.com/igorvpaz
