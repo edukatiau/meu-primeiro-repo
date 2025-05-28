@@ -13,5 +13,5 @@ Repositório para praticar os básicos do Git e GitHub
 # Projeto
 
 1. Projeto site DBC
-2. Projeto app DBC
+2. Projeto app Ecos DBC
 3. Projeto banco de dados
